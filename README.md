@@ -1,12 +1,38 @@
-<div align="center">
-  <img src="project_logo.png" alt="Project Logo" width="200px">
-</div>
-
-<h1 align="center">Tracking Stocks Analysis</h1>
+<h1 align="center">Stocks Tracker</h1>
 
 <p align="center">
   📚 <strong>Project Name:</strong> Tracking Stocks Analysis
 </p>
+
+<div align="center">
+  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/3f3d708d-6fb6-42da-b236-4e1587212f54" alt="Image 1" width="400px">
+  <br>
+  <em>Image 1: Home Screen</em>
+</div>
+
+<div align="center">
+  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/4879390a-7de1-4261-9b2e-1684312a642a" alt="Image 2" width="400px">
+  <br>
+  <em>Image 2: Currency Selection</em>
+</div>
+
+<div align="center">
+  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/5746ccf0-1655-427d-b797-f08d790a450e" alt="Image 3" width="400px">
+  <br>
+  <em>Image 3: User settings</em>
+</div>
+
+<div align="center">
+  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/d0e175f5-3765-419f-b0d6-a88124e73bf4" alt="Image 4" width="400px">
+  <br>
+  <em>Image 4: SignUp</em>
+</div>
+
+<div align="center">
+  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/a17c1c8f-8951-4537-a075-81aa7d1b3177" alt="Image 5" width="400px">
+  <br>
+  <em>Image 5: LOGIN</em>
+</div>
 
 ## 📝 Abstract
 

@@ -39,24 +39,28 @@ To interact with this project, please follow these steps:
   <br>
   <em>Image 1: Home Screen</em>
 </div>
+  <br>
 
 <div align="center">
   <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/4879390a-7de1-4261-9b2e-1684312a642a" alt="Image 2" width="400px">
   <br>
   <em>Image 2: Currency Selection</em>
 </div>
+  <br>
 
 <div align="center">
   <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/5746ccf0-1655-427d-b797-f08d790a450e" alt="Image 3" width="400px">
   <br>
   <em>Image 3: User settings</em>
 </div>
+  <br>
 
 <div align="center">
   <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/d0e175f5-3765-419f-b0d6-a88124e73bf4" alt="Image 4" width="400px">
   <br>
   <em>Image 4: SignUp</em>
 </div>
+  <br>
 
 <div align="center">
   <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/a17c1c8f-8951-4537-a075-81aa7d1b3177" alt="Image 5" width="400px">

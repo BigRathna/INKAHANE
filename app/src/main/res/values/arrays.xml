@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="png_overlay_names">
+        <item>user_image_frame_1</item>
+        <item>user_image_frame_2</item>
+        <item>user_image_frame_3</item>
+        <item>user_image_frame_4</item>
+    </string-array>
+</resources>

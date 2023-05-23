@@ -4,35 +4,6 @@
   📚 <strong>Project Name:</strong> Tracking Stocks Analysis
 </p>
 
-<div align="center">
-  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/3f3d708d-6fb6-42da-b236-4e1587212f54" alt="Image 1" width="400px">
-  <br>
-  <em>Image 1: Home Screen</em>
-</div>
-
-<div align="center">
-  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/4879390a-7de1-4261-9b2e-1684312a642a" alt="Image 2" width="400px">
-  <br>
-  <em>Image 2: Currency Selection</em>
-</div>
-
-<div align="center">
-  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/5746ccf0-1655-427d-b797-f08d790a450e" alt="Image 3" width="400px">
-  <br>
-  <em>Image 3: User settings</em>
-</div>
-
-<div align="center">
-  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/d0e175f5-3765-419f-b0d6-a88124e73bf4" alt="Image 4" width="400px">
-  <br>
-  <em>Image 4: SignUp</em>
-</div>
-
-<div align="center">
-  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/a17c1c8f-8951-4537-a075-81aa7d1b3177" alt="Image 5" width="400px">
-  <br>
-  <em>Image 5: LOGIN</em>
-</div>
 
 ## 📝 Abstract
 
@@ -63,16 +34,32 @@ To interact with this project, please follow these steps:
 8. Utilize the ALPHA Vantage API integration for obtaining prediction models and live data.
 9. Analyze the gathered data, make informed investment decisions, and track the success of specific business units.
 
-> 📌 **Note:** Please ensure that you have an active internet connection for accessing real-time data through the ALPHA Vantage API.
+<div align="center">
+  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/3f3d708d-6fb6-42da-b236-4e1587212f54" alt="Image 1" width="400px">
+  <br>
+  <em>Image 1: Home Screen</em>
+</div>
 
-## 🤝 Contributing
+<div align="center">
+  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/4879390a-7de1-4261-9b2e-1684312a642a" alt="Image 2" width="400px">
+  <br>
+  <em>Image 2: Currency Selection</em>
+</div>
 
-We welcome contributions to this project. If you encounter any issues or have suggestions for improvements, please submit a pull request. Your contributions are valuable in enhancing the functionality and user experience of this tracking stocks analysis project.
+<div align="center">
+  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/5746ccf0-1655-427d-b797-f08d790a450e" alt="Image 3" width="400px">
+  <br>
+  <em>Image 3: User settings</em>
+</div>
 
-📞 **Contact Information**
-If you have any questions or need further assistance, please reach out to our support team at [support@example.com](mailto:support@example.com). We are happy to help!
+<div align="center">
+  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/d0e175f5-3765-419f-b0d6-a88124e73bf4" alt="Image 4" width="400px">
+  <br>
+  <em>Image 4: SignUp</em>
+</div>
 
-📜 **License**
-This project is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute the codebase while respecting the terms and conditions of the license.
-
-🌟 Thank you for choosing our Tracking Stocks Analysis project! We hope you find it informative and helpful for your investment endeavors. Happy tracking! 📈
+<div align="center">
+  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/a17c1c8f-8951-4537-a075-81aa7d1b3177" alt="Image 5" width="400px">
+  <br>
+  <em>Image 5: LOGIN</em>
+</div>

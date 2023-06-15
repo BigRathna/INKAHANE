@@ -35,7 +35,7 @@ To interact with this project, please follow these steps:
 9. Analyze the gathered data, make informed investment decisions, and track the success of specific business units.
 
 <div align="center">
-  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/3f3d708d-6fb6-42da-b236-4e1587212f54" alt="Image 1" width="400px">
+  <img src="https://github.com/BigRathna/INKAHANE/assets/112894306/3f3d708d-6fb6-42da-b236-4e1587212f54](https://github.com/BigRathna/INKAHANE/blob/main/images/Picture1.jpg" alt="Image 1" width="400px">
   <br>
   <em>Image 1: Home Screen</em>
 </div>

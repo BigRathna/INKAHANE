@@ -60,10 +60,4 @@ To interact with this project, please follow these steps:
   <br>
   <em>Image 4: SignUp</em>
 </div>
-  <br>
 
-<div align="center">
-  <img src="https://github.com/BigRathna/INKAHANE/blob/main/images/Picture5.jpg" alt="Image 5" width="400px">
-  <br>
-  <em>Image 5: LOGIN</em>
-</div>
